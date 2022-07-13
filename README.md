@@ -1,6 +1,6 @@
 # Mark D. Hamm
 
-_Software engineer and journalist based in Berlin, Germany_
+_Construction and Software Solution Provider based in Edmonton, Alberta, Canada_
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
