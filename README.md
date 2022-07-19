@@ -120,16 +120,16 @@ _A construction professional with a unique a unique skill set with industry expo
     <br><br>
 ## 👩🏼‍🎓 Certifications
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
+**Google** Data Analytics Professional<br>
 [SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
+**PMP** Project Managment Professional<br>
 [Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
 
-**Washington Semester Program** for Journalism and New Media<br>
+**MCSE**  Microsoft Certified Systems Engineer<br>
 [American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
 
-**International Exchange** studying Political Science<br>
+**MOUS** Microsoft Office User Specialist<br>
 [Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
 
 ## 👩🏼‍🎓 Education
