@@ -1,6 +1,6 @@
 # Mark D. Hamm
 
-_A construction professional with a unique a unique skill set with industry exposure in a diverse cross section of fields. Responsible for the sucessful delivery of customer projects. My focus being to meet the goals and objectives of the project on time providing clients with industry expertise and leadership in cost managment, estimation, execution and scheduling_
+_A construction professional with a unique a unique skill set with industry exposure in a diverse cross section of fields. Responsible for the successful delivery of customer projects. My focus being to meet the goals and objectives of the project on time providing clients with industry expertise and leadership in cost management, estimation, execution, and scheduling_
 
 [Email](mailto:mark.d.hamm@outlook.com.com) / [Website](https:///) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/ComVIC20/) / [Twitter](https://twitter.com/mark-hamm-60ba4934/) / [DEV](https://dev.to//)
 
@@ -15,9 +15,6 @@ _A construction professional with a unique a unique skill set with industry expo
 - Software Skills
     - Miscrosoft Office Suite, Google Office Suite, Peoplesoft, SAP
     - Adobe Acrobat DC, BlueBeam Revu, Micros0ft Power BI,
-
-<br><br>
-
 
 ## 👩🏼‍💻 Construction Managmnet Experience
 
@@ -36,7 +33,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator** @ [All Weather Windows](https://foundation.graphql.org/) _(Jan 2020 - Apr 2020)_ <br>
+**Project Coordinator** @ [All Weather Windows](https://foundation.graphql.org/) _(Jan 2020 - Apr 2020)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -44,7 +41,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator** @ [Valard](https://foundation.graphql.org/) _(May 2019 - Jan 2020)_ <br>
+**Project Coordinator** @ [Valard](https://foundation.graphql.org/) _(May 2019 - Jan 2020)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -52,7 +49,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator** @ [Basemethod Solutions](https://foundation.graphql.org/) _(Jun 2016 - Feb 2019)_ <br>
+**Project Coordinator** @ [Basemethod Solutions](https://foundation.graphql.org/) _(Jun 2016 - Feb 2019)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -68,7 +65,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator** @ [WB Melback](https://foundation.graphql.org/) _(Apr 2014 - Dec 2015)_ <br>
+**Project Coordinator** @ [WB Melback](https://foundation.graphql.org/) _(Apr 2014 - Dec 2015)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -76,7 +73,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator** @ [Clearstream Energy](https://foundation.graphql.org/) _(Aor 2013 - Dec 2013)_ <br>
+**Project Coordinator** @ [Clearstream Energy](https://foundation.graphql.org/) _(Aor 2013 - Dec 2013)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -84,7 +81,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator**@ [Phoenix Industrial](https://foundation.graphql.org/) _(Apr 2012 - Dec 2012)_ <br>
+**Project Coordinator**@ [Phoenix Industrial](https://foundation.graphql.org/) _(Apr 2012 - Dec 2012)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -92,7 +89,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
 
-**Project Cordinator** @ [North American Construction Group](http://meeshkan.com/) _(Jun 2011- Apr 2012)_ <br>
+**Project Coordinator** @ [North American Construction Group](http://meeshkan.com/) _(Jun 2011- Apr 2012)_ <br>
 Early-stage startup focused on automated API testing and NLP.
   - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
@@ -104,7 +101,7 @@ Early-stage startup focused on automated API testing and NLP.
     - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
     <br><br>
 
-**Project Cordinator** @ [Jacobs - JFSL](https://www.blacklane.com/en) _(Mar 2010 - Jun 2011)_ <br>
+**Project Coordinator** @ [Jacobs - JFSL](https://www.blacklane.com/en) _(Mar 2010 - Jun 2011)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
   - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
@@ -112,7 +109,7 @@ Professional chauffeur service available in over 300 cities worldwide.
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
   <br><br>
 
-**Project Logistics Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+**Project Logistics Coordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -168,7 +165,7 @@ API-first infrastructure to create, manage and distribute content.
 
 <br><br>
     
-    **System Administrator** @ [MTS](https://www.contentful.com/) _(Sep 1998 - Apr 2004)_ <br>
+   **System Administrator** @ [MTS](https://www.contentful.com/) _(Sep 1998 - Apr 2004)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -206,7 +203,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
 
-** Logistics Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+** Logistics Coordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -254,3 +251,4 @@ API-first infrastructure to create, manage and distribute content.
 
 **English**: Native <br>
 <br><br>
+
