@@ -6,17 +6,13 @@ _A construction professional with a unique a unique skill set with industry expo
 
 ## 🎤 Skills
     
-### Recent Appearances
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
 
-- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
 
 
