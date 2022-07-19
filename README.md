@@ -6,12 +6,15 @@ _A construction professional with a unique a unique skill set with industry expo
 
 ## 🎤 Skills
     
-- First item                - First item
-- Second item               - Second item
-- Third item
+- Construction Managment Skills
+    - Estimating, Procurment, Project Controls, Scheduling, Invoicing, Logistics
+    - Primaveria P6, MS Project, Trimble Tilos, InEight Hard Dollar
+- Business Administrative Skills
+    - Accounts Receivable and Payable, Payroll, Job Costing
     - Indented item
-    - Indented item
-- Fourth item
+- Software Skills
+    - Miscrosoft Office Suite, Google Office Suite, Peoplesoft, SAP
+    - Adobe Acrobat DC, BlueBeam Revu, Micros0ft Power BI,
 
 <br><br>
 
