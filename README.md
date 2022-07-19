@@ -6,8 +6,8 @@ _A construction professional with a unique a unique skill set with industry expo
 
 ## 🎤 Skills
     
-- First item
-- Second item
+- First item                - First item
+- Second item               - Second item
 - Third item
     - Indented item
     - Indented item
