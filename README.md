@@ -17,82 +17,67 @@ _A construction professional with a unique a unique skill set with industry expo
     - Adobe Acrobat DC, BlueBeam Revu, Microsoft Power BI,
 
 ## 👩🏼‍💻 Construction Managmnet Experience
-
 **Production Scheduler** @ [Sackarc](https://saskarc.com/) _(Feb 2022 - July 2022)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Scheduler** @ [Steel River Solutions](https://foundation.graphql.org/) _(Jun 2021 - Aug 2021)_ <br>
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
   - **_Technologies used:_** Primaveria P6, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Coordinator** @ [All Weather Windows](https://foundation.graphql.org/) _(Jan 2020 - Apr 2020)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
-
 **Project Coordinator** @ [Valard](https://foundation.graphql.org/) _(May 2019 - Jan 2020)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Coordinator** @ [Basemethod Solutions](https://foundation.graphql.org/) _(Jun 2016 - Feb 2019)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Workface Planner** @ [Waiward Steel](https://foundation.graphql.org/) _(Jan 2015 - Jun 2016)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Coordinator** @ [WB Melback](https://foundation.graphql.org/) _(Apr 2014 - Dec 2015)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Coordinator** @ [Clearstream Energy](https://foundation.graphql.org/) _(Aor 2013 - Dec 2013)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Coordinator**@ [Phoenix Industrial](https://foundation.graphql.org/) _(Apr 2012 - Dec 2012)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
 <br><br>
-
 **Project Coordinator** @ [North American Construction Group](http://meeshkan.com/) _(Jun 2011- Apr 2012)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-
 **Project Coordinator** @ [Jacobs - JFSL](https://www.blacklane.com/en) _(Mar 2010 - Jun 2011)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
   <br><br>
-
 **Project Logistics Coordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-    
-## 🗞 Construction Field Experience
-
+    ## 🗞 Construction Field Experience
 <br><br>
-
 **Pipefitter / Crane Operator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
@@ -110,39 +95,29 @@ _A construction professional with a unique a unique skill set with industry expo
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-    
     ## 🗞 Other Experience
-
 <br><br>
-    
-   **System Administrator** @ [MTS](https://www.contentful.com/) _(Sep 1998 - Apr 2004)_ <br>
+    **System Administrator** @ [MTS](https://www.contentful.com/) _(Sep 1998 - Apr 2004)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-    
     **Graphic Designer** @ [Revelstoke Printing](https://www.contentful.com/) _(Sep 1995 - Dec 1996)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-
 ## 📌 On The Side
-
 **Solution Consultant** @ [EVMT Solutions](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-
 ** Logistics Coordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
     <br><br>
-
-
-  
 ## 👩🏼‍🎓 Certifications
 
 **12-week intensive coding course** focused on full-stack JavaScript<br>
@@ -156,8 +131,6 @@ _A construction professional with a unique a unique skill set with industry expo
 
 **International Exchange** studying Political Science<br>
 [Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
-
-
 
 ## 👩🏼‍🎓 Education
 
