@@ -31,6 +31,7 @@ _A construction professional with a unique a unique skill set with industry expo
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - **_Technologies used:_** Microsoft Project, Power BI, Power Query, Beanworks, JobBoss2, Tekla, Office Suite
+<br><br>
 **Project Coordinator** @ [Valard](https://foundation.graphql.org/) _(May 2019 - Jan 2020)_ <br>
   - No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
