@@ -112,7 +112,7 @@ Professional chauffeur service available in over 300 cities worldwide.
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
   <br><br>
 
-**Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+**Project Logistics Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -126,10 +126,9 @@ API-first infrastructure to create, manage and distribute content.
     
 ## 🗞 Construction Field Experience
 
-_This section only accounts for work done post-career change._
 <br><br>
 
-**Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+**Pipefitter / Crane Operator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -141,7 +140,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
-    **Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+    **Deficeiincies Foreman** @ [PCL - Energy Services](https://www.contentful.com/) _(Sep 2005 - Feb 2007)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -153,7 +152,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
-    **Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+    **Pipefitter** @ [Flint Energy](https://www.contentful.com/) _(Jun 2004 - Jun 2005)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -165,7 +164,11 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
-    **Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+    ## 🗞 Other Experience
+
+<br><br>
+    
+    **System Administrator** @ [MTS](https://www.contentful.com/) _(Sep 1998 - Apr 2004)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -177,19 +180,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
-    **Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-    **Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+    **Graphic Designer** @ [Revelstoke Printing](https://www.contentful.com/) _(Sep 1995 - Dec 1996)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -203,7 +194,7 @@ API-first infrastructure to create, manage and distribute content.
 
 ## 📌 On The Side
 
-**Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+**Solution Consultant** @ [EVMT Solutions](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
@@ -215,7 +206,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
 
-**Project Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
+** Logistics Cordinator** @ [Flint Energy](https://www.contentful.com/) _(Sep 2007 - Feb 2010)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
